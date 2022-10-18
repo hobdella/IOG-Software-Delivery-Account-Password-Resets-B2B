@@ -1,4 +1,4 @@
-# IOG-Software-Delivery-Account-Password-Resets-B2B
+# IOG-Software-Delivery-Account-Password-Resets
 
 B2B / RISK Domain Password ResetsPassword reset policies and standards for B2B and RISK Domain accounts.
 
